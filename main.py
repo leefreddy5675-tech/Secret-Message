@@ -1,4 +1,4 @@
-rom dataclasses import dataclass
+from dataclasses import dataclass
 import random
 from drafter import (
     route,
